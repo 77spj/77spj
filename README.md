@@ -11,7 +11,7 @@ Estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio, ap
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=77spj&theme=great-gatsby&show_icons=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=77spj&theme=great-gatsby&hide_progress=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=77spj&theme=great-gatsby&layout=compact&langs_count=7"/>
 </div>
 
 
@@ -31,6 +31,11 @@ Estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio, ap
  	<a href="https://www.twitch.tv/jps77" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:jonathanpsouza77@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jonathanpsouza77/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake.svg">
+</picture>
 
