@@ -1,10 +1,12 @@
-# Olá! Eu sou o Jonathan Pereira 👋
+# Olá! Eu sou o Jonathan Pereira // Hi! I'm Jonathan Pereira  👋
 Um estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio, apaixonado por tecnologia e em busca de aprender e me desenvolver, para conseguir uma vaga na área da programação.
+<br>
+A System Analysis and Development student at Estácio University, passionate about technology and seeking to learn and develop myself to get a job in the programming field.
 ## 🚀 Sobre Mim
 
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas (desde 2024)
-- 💻 Aprendendo desenvolvimento web e programação
-- 🌱 Aprendendo e praticando JavaScript, Python, C, PHP e desenvolvimento web full-stack
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas (desde Agosto/2024) // Studying System Analysis and Development (since August/2024)
+- 💻 Aprendendo desenvolvimento web e programação // Learning web development and programming
+- 🌱 Aprendendo e praticando JavaScript, Python, C, PHP e desenvolvimento web full-stack // Learning and practicing JavaScript, Python, C, PHP and full-stack web development
 - 📍 Rio de Janeiro, RJ - Brasil
 
 <div>
