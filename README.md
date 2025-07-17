@@ -1,8 +1,6 @@
-## Olá! Eu sou o Jonathan Pereira 👋
-
-🚀 Sobre Mim
-
-Estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio, apaixonado por tecnologia e sempre em busca de novos desafios para aprender e crescer na área.
+# Olá! Eu sou o Jonathan Pereira 👋
+Um estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio, apaixonado por tecnologia e em busca de aprender e me desenvolver, para conseguir uma vaga na área da programação.
+## 🚀 Sobre Mim
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas (desde 2024)
 - 💻 Aprendendo desenvolvimento web e programação
